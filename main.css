@@ -1,0 +1,90 @@
+a, a:hover, a:focus, a:active, a:visited {
+    color: rgb(131, 117, 104);
+    text-decoration: none;
+}
+body {
+    background-color:rgb(218, 216, 201);
+    font-family: 'Source Code Pro';font-size: 16px; font-weight: bold;
+    width: 100%;
+    height: auto;
+    background-color: rgb(218, 216, 201);
+}
+.monu {
+    text-align: center;
+    background-image: url("special-delivery.jpg");
+    font-style: bold;
+    padding: 30px;
+    font-size: 20px;
+}
+.monu h1 {
+    background-color: rgba(220, 218, 202, 0.7);
+    display: inline;
+}
+.minimenu {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(220, 218, 202, 0.7);
+    width: 90%;
+}
+.index_box {
+    color: rgb(246, 108, 69);
+    background-color: rgba(220, 218, 202, );
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 50px;
+    text-align: centre;
+    border-left: 5px;
+    border-left-style:solid;
+    border-left-width: 8px;
+    border-left-color: rgb(249, 156, 131); 
+    border-radius: 12px
+ }
+.sub_head{
+    text-align: center;
+    color: rgb(137, 173, 172);
+}
+.page_one_heading{
+    font-weight: 1000;
+   color:rgb(209, 189, 50)
+}
+ .page_one_a {
+    color:rgb(246, 108, 69);
+    background-color: rgba(255, 209, 168, 0);
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 50px;
+    text-align: centre;
+    border-left: 8px;
+    border-left-style:solid;
+    border-left-color: rgb(249, 156, 131); 
+    border-radius: 12px
+ }
+ .page_c_heading{
+     margin: 10px;
+    font-size: 22px;
+    color:rgb(209, 189, 50)
+}
+ .social{
+    color:rgb(246, 108, 69);
+    background-color: rgba(255, 209, 168, 0);
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 50px;
+    font-size: 18px;
+    text-align: centre;
+    border-left: 8px;
+    border-left-style:solid;
+    border-left-color: rgb(249, 156, 131); 
+    border-radius: 12px  
+ }
+ .pic {
+    width: 30%;
+    float: left;
+    padding: 1.66%;
+}
